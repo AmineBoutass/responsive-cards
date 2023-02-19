@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Product 1",
+      "price": 19.99,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "image": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/611ac5594d48fb60ede06fe6_00049200007402-glamor-frontpackageglamor-2021-01-12t20-08-14-iphone-x-quality-90-1-21-8-user-5984ad42a967f880524de2c4-otvq-155576.jpg",
+      "category": "Electronics"
+    },
+    {
+      "name": "Product 2",
+      "price": 29.99,
+      "description": "Nulla vestibulum purus nec diam scelerisque, vel efficitur magna congue.",
+      "image": "https://example.com/images/product2.jpg",
+      "category": "Home & Kitchen"
+    },
+    {
+      "name": "Product 3",
+      "price": 9.99,
+      "description": "Fusce eu sapien vitae metus eleifend elementum.",
+      "image": "https://example.com/images/product3.jpg",
+      "category": "Fashion"
+    },
+    {
+      "name": "Product 4",
+      "price": 49.99,
+      "description": "Suspendisse tincidunt augue eu justo dignissim, eu facilisis nisi rhoncus.",
+      "image": "https://example.com/images/product4.jpg",
+      "category": "Toys & Games"
+    },
+    {
+      "name": "Product 5",
+      "price": 14.99,
+      "description": "Pellentesque sed mauris vel purus interdum varius.",
+      "image": "https://example.com/images/product5.jpg",
+      "category": "Sports & Outdoors"
+    },
+    {
+      "name": "Product 6",
+      "price": 39.99,
+      "description": "Duis eget sapien nec sapien blandit tincidunt ac vel metus.",
+      "image": "https://example.com/images/product6.jpg",
+      "category": "Beauty & Personal Care"
+    }
+  ]
